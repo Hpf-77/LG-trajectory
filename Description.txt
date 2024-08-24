@@ -1,3 +1,7 @@
-"xbohm_trace.m" is the code for finding the Bohm trajectory using the x-Bohm theory, "xbohm_pic.m" is the code for drawing the graph after finding the trajectory using the x-Bohm theory, and "LGlight.m" is the x-space wave function of the LG beam.
+ “LGlight.m”  is the code for describing the x-space wave function of an LG beam .
+“xbohm_traj.m” is the code for calculating the Bohm trajectory using the x-Bohm theory. 
+“xbohm_pic.m” is the code for drawing the picture after calculating the trajectory using the x-Bohm theory, 
 
-"pbohm_trace.m" is the code for finding the Bohm trajectory using the p-Bohm theory, "pbohm_pic.m" is the code for drawing the graph after finding the trajectory using the p-Bohm theory, and "LGlight.m" is the p-space wave function of the LG beam.
+“LGlight_p.m”  is the code for describing the p-space wave function of an LG beam.
+“pbohm_traj.m” is the code for calculating the Bohm trajectory using the p-Bohm theory. 
+“pbohm_pic.m” is the code for drawing the picture after calculating the trajectory using the p-Bohm theory, 
